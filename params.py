@@ -1,11 +1,3 @@
-# batch_size = 32
-# block_size = 8
-# max_iters = 5000
-# n_embed = 32
-# n_head = 4
-# n_layer = 4
-# dropout = 0.2
-# learning_rate = 3e-4
 batch_size = 64
 block_size = 64
 max_iters = 5000
